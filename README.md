@@ -1,3 +1,5 @@
+# Personal-Finance-Tracker
+
 **The project involves creating a user-friendly Personal Finance Tracker accessible across multiple platforms. It will include features like budgeting, expense tracking, goal setting, and data analysis while prioritizing security and privacy.**
 
 **Front End:**
